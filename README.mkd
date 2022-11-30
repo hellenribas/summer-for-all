@@ -1,5 +1,5 @@
 <h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>Hasta la vista, baby</s></h1>
-
+<h2>link da tabela: https://docs.google.com/spreadsheets/d/10n3EMWbSe7yJlf8H2XyHMemZpypc85xRT5StuTrMGeM/edit?usp=sharing </h2>
 <h1>Requisitos</h1>
 <br>
 <div>
