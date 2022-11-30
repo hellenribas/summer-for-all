@@ -1,0 +1,20 @@
+<h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>Hasta la vista, baby</s></h1>
+
+<h1>Requisitos</h1>
+<br>
+<div>
+<h3>1) Normalize a tabela Copa do Mundo</h3>
+<p> - Analise a tabela e, se necessário, separe os dados em outras tabelas</p>
+</div>
+<br>
+<h3>2) Crie uma query que exiba duas colunas</h3>
+<p>- Primeira: a quantidade de paises sede com o nome paises </p>
+<p> - Segundo: a quantidade de paises de títulos com o nome titulos</p>
+<br>
+<div>
+<h3>3) Crie uma query que exiba duas colunas</h3>
+<p>- Primeira: todos os paises sede com o nome sede </p>
+<p>- Segundo: E paises campeães com o nome campeao </p>
+<p>- Dica: Lembre-se dos três tipos de JOINS: Left Join, Right Join e Inner Join. E escolha o melhor para esse caso </p>
+</div>
+<br>
