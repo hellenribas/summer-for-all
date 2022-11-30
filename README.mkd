@@ -9,7 +9,7 @@
 <br>
 <h3>2) Crie uma query que exiba duas colunas</h3>
 <p>- Primeira: a quantidade de paises sede com o nome paises </p>
-<p> - Segundo: a quantidade de paises de títulos com o nome titulos</p>
+<p> - Segundo: a quantidade de títulos com o nome titulos</p>
 <br>
 <div>
 <h3>3) Crie uma query que exiba duas colunas</h3>
