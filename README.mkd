@@ -18,6 +18,6 @@
 <p>- Dica: Lembre-se dos três tipos de JOINS: Left Join, Right Join e Inner Join. E escolha o melhor para esse caso </p>
 </div>
 <br>
-<h3>3) Crie uma query que exiba a média de títulos entre os paises campeões</h3>
+<h3>4) Crie uma query que exiba a média de títulos entre os paises campeões</h3>
 </div>
 <br>
